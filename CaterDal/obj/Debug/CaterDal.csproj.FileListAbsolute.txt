@@ -1,0 +1,15 @@
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\bin\Debug\CaterDal.dll
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\bin\Debug\CaterDal.pdb
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\bin\Debug\CaterCommon.dll
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\bin\Debug\CaterModel.dll
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\bin\Debug\CaterCommon.pdb
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\bin\Debug\CaterModel.pdb
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\obj\Debug\CaterDal.csproj.AssemblyReference.cache
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\obj\Debug\CaterDal.csproj.CoreCompileInputs.cache
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\obj\Debug\CaterDal.csproj.CopyComplete
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\obj\Debug\CaterDal.dll
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\obj\Debug\CaterDal.pdb
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\bin\Debug\System.Data.SQLite.dll
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\bin\Debug\System.Data.SQLite.xml
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\bin\Debug\ChnCharInfo.dll
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterDal\bin\Debug\ChnCharInfo.xml

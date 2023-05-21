@@ -1,0 +1,6 @@
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterModel\bin\Debug\CaterModel.dll
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterModel\bin\Debug\CaterModel.pdb
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterModel\obj\Debug\CaterModel.csproj.AssemblyReference.cache
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterModel\obj\Debug\CaterModel.csproj.CoreCompileInputs.cache
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterModel\obj\Debug\CaterModel.dll
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterModel\obj\Debug\CaterModel.pdb

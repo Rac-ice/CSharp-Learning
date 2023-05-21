@@ -1,0 +1,9 @@
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterCommon\bin\Debug\CaterCommon.dll
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterCommon\bin\Debug\CaterCommon.pdb
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterCommon\obj\Debug\CaterCommon.csproj.AssemblyReference.cache
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterCommon\obj\Debug\CaterCommon.csproj.CoreCompileInputs.cache
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterCommon\obj\Debug\CaterCommon.dll
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterCommon\obj\Debug\CaterCommon.pdb
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterCommon\bin\Debug\ChnCharInfo.dll
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterCommon\bin\Debug\ChnCharInfo.xml
+D:\LEGION\Documents\Visual Studio Project\餐饮管理系统\CaterCommon\obj\Debug\CaterCommon.csproj.CopyComplete

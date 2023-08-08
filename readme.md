@@ -98,3 +98,6 @@
 | OrderId | integer |  | 订单编号，引用OrderInfo表的OId列 |
 | DishId | integer |  | 菜品编号，引用DishInfo表的Did列 |
 | Count | integer |  | 份数 |
+
+# Socket 学习记录 网络通信
+实现了聊天室功能，客户端连接服务器发送消息，服务器对所有客户端进行转发
